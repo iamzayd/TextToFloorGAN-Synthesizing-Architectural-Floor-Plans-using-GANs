@@ -42,13 +42,13 @@ CVAE GAN - Image Synthesis
 
 ## Training Results
 
-# CGAN
+CGAN
 
-# Vanilla GAN
+Vanilla GAN
 
-# DC-GAN
+DC-GAN
 
-# CVAE GAN
+CVAE GAN
 
 
 
@@ -77,17 +77,18 @@ CVAE GAN - Image Synthesis
 
 ## Literature Survey
 
-CGAN - https://arxiv.org/pdf/1411.1784
+Generative Adversarial Networks (GANs):
+"A Generative Adversarial Network" by Ian J. Goodfellow et al. (2014)
 
-TransGAN - https://arxiv.org/abs/2102.07074
 
-Attention Is All You Need - https://arxiv.org/abs/1706.03762
+Conditional Generative Adversarial Networks (cGANs):
+"Conditional Generative Adversarial Networks" by Mehdi Mirza and Simon Osindero (2014)
 
-GANsformer - https://arxiv.org/pdf/2103.01209v2
 
-ViTGAN - https://arxiv.org/pdf/2107.04589
+Conditional Variational Autoencoders with Generative Adversarial Networks (CVAE-GAN):
+"CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training" by Jianwen Bao et al. (2017)
 
-WGANS - https://github.com/bastienvanderplaetse/gan-image-captioning
 
-Pix2Struct - https://arxiv.org/abs/2210.03347 
+Deep Convolutional Generative Adversarial Networks (DCGANs):
+"Deep Convolutional Generative Adversarial Networks" by Alec Radford et al. (2015)
 
