@@ -73,6 +73,9 @@ Vanilla GAN
 
 
 
+![image](https://github.com/iamzayd/TextToFloorGAN-Synthesizing-Architectural-Floor-Plans-using-GANs/assets/91972048/84744f64-b86a-4ab8-97a2-63762ecc69c0)
+
+
 ## Try Yourself
 
 
