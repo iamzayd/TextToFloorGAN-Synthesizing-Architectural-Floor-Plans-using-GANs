@@ -22,6 +22,8 @@ To create a fully function CGAN on Floor Plan Dataset; which can take input text
 https://aclanthology.org/2023.acl-long.820/
 
 Picture of a sample Image from Dataset
+
+
 ![image](https://github.com/iamzayd/TextToFloorGAN-Synthesizing-Architectural-Floor-Plans-using-GANs/assets/91972048/77383ca5-8865-4912-8ef0-8aa20d405665)
 
 
