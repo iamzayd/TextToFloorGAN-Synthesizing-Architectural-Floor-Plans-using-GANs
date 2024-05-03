@@ -14,7 +14,7 @@
 
 
 ## Objective
-To create a fully function CGAN on Floor Plan Dataset; which can take input text from user and return the floor plan generation. Further understanding how Vanilla GAN, DC-GAN & CVAE-GAN work on the Floor Plan Dataset
+To create a fully function CGAN on Floor Plan Dataset; which can take input text from user and return the floor plan generation. Further understanding how Vanilla GAN work on the Floor Plan Dataset
 
 
 
@@ -34,33 +34,42 @@ CGAN - Text to Image
 
 Vanilla GAN - Image Synthesis
 
-DC-GAN - Image Synthesis
-
-CVAE GAN - Image Synthesis
-
 
 
 ## Training Results
 
 CGAN
 
+
+
+
 Vanilla GAN
 
-DC-GAN
 
-CVAE GAN
+![image](https://github.com/iamzayd/TextToFloorGAN-Synthesizing-Architectural-Floor-Plans-using-GANs/assets/91972048/28505873-e63b-4dcf-bb9e-fca11adb93b8)
 
 
 
 ## Generated Results
 
 CGAN
+Prompt - bathroom is in north side of the house, next to living room and common room, size of bathroom is 8 feet in width and 6 feet in length. common room is in north east corner of the house, next to living room, bathroom and master room, size of common room is 10 feet in width and 14 feet in length. kitchen is in west side of the house, next to living room, size of kitchen is 6 feet in width and 16 feet in length. living room is in west side of the house, next to master room, kitchen, bathroom and common room, size of living room is 348 sqft. master room is in south east corner of the house, next to living room and common room, size of master room is 12 feet in width and 14 feet in length.
+
+ACTUAL:
+
+
+![image](https://github.com/iamzayd/TextToFloorGAN-Synthesizing-Architectural-Floor-Plans-using-GANs/assets/91972048/648d8a38-df2a-41ad-8b5e-51eeae5e0363)
+
+
+
+GENERATED:
+
+
+
+![image](https://github.com/iamzayd/TextToFloorGAN-Synthesizing-Architectural-Floor-Plans-using-GANs/assets/91972048/9e775b00-edd3-4bf8-818e-d975fffb526a)
+
 
 Vanilla GAN
-
-DC-GAN
-
-CVAE GAN
 
 
 
