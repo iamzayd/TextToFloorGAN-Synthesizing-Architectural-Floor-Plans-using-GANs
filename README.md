@@ -54,13 +54,13 @@ CVAE GAN
 
 ## Generated Results
 
-# CGAN
+CGAN
 
-# Vanilla GAN
+Vanilla GAN
 
-# DC-GAN
+DC-GAN
 
-# CVAE GAN
+CVAE GAN
 
 
 
