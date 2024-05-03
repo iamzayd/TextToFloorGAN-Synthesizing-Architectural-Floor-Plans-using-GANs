@@ -14,7 +14,7 @@
 
 
 ## Objective
-To create a fully function CGAN on Floor Plan Dataset; which can take input text from user and return the floor plan generation. Further understanding how GAN & DC-GAN work on the Floor Plan Dataset
+To create a fully function CGAN on Floor Plan Dataset; which can take input text from user and return the floor plan generation. Further understanding how Vanilla GAN, DC-GAN & CVAE-GAN work on the Floor Plan Dataset
 
 
 
